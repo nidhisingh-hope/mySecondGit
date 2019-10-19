@@ -8,7 +8,7 @@ def subtract(x,y):
 
 def multiply(x,y): 
 
-    pass 
+    return multiply
 
 def divide(x,y): 
 
@@ -17,3 +17,5 @@ def divide(x,y):
 def square(x,y): 
 
     return square
+
+
