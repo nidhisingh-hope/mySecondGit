@@ -8,7 +8,7 @@ def subtract(x,y):
 
 def multiply(x,y): 
 
-    eturn x*y
+    return x*y
 
 def divide(x,y): 
 
